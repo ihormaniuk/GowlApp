@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:title="@string/first"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+    <item
+        android:id="@+id/secondFragment"
+        android:title="@string/serial"
+        android:icon="@drawable/ic_baseline_high_quality_24"
+        />
+    <item
+        android:id="@+id/theeFragment"
+        android:title="@string/multfil"
+        android:icon="@drawable/ic_baseline_group_work_24"
+        />
+</menu>
